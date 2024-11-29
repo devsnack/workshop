@@ -5,7 +5,7 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 import Tabs from "./app/layout/Tabs";
-import SideBar from "./app/layout/SidEBar";
+
 import Ex5 from "./app/exos/5";
 import MainLayout from "./app/layout/Layout";
 import MenuSideBar from "./app/layout/MenuSideBar";

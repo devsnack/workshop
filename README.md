@@ -1,8 +1,21 @@
-# React + Vite
+# React WORKSHOP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Helpers
 
-Currently, two official plugins are available:
+- Online Editor
+  ["Project in codesandbox"](https://codesandbox.io/p/github/devsnack/workshop/main?import=true)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Helpful Emoji 🐨 💰 💯 📝
+
+Each exercise has comments in it to help you get through the exercise. These fun
+emoji characters are here to help you.
+
+- **Kody the Koala** 🐨 will tell you when there's something specific you should
+  do
+- **Marty the Money Bag** 💰 will give you specific tips (and sometimes code)
+  along the way
+- **Hannah the Hundred** 💯 will give you extra challenges you can do if you
+  finish the exercises early.
+- **Nancy the Notepad** 📝 Reference
+
+#### Happy Learning
